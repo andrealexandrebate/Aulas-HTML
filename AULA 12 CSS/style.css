@@ -1,0 +1,74 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background: #dfdfdf;
+    color: rgb(52, 52, 52);
+    margin:0%
+
+}
+
+.container{
+    width: 650px;
+    margin: 0 auto;
+}
+
+.profil{
+    text-align: center;
+}
+
+.foto-andre {
+    border: 2px solid white;
+    margin: 30px 30px 0px 30px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 0px 3px rgb(246 238 240)
+}
+
+h1{
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-family: 'PT Sans Narrow', sans-serif;
+    letter-spacing: -1px;
+    color: black;
+    font-weight: 300px;
+}
+
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color: rgb(79, 79, 79);
+    font-weight: 100;
+    letter-spacing: -1px;
+}
+
+.links-logo{
+    text-decoration: none;
+}
+
+.logo{
+    width: 20px;
+    margin: 10px 10px 10px 10px;
+}
+
+h4{
+    margin-bottom: 0;
+}
+
+h5{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.jobs{
+    list-style: none;
+}
+
+.email{
+    text-align: center;
+}
+
+.footer{
+    margin-top: 60px;
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px 0px;
+}

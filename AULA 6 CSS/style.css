@@ -1,0 +1,33 @@
+body{
+    background: #dfdfdf
+    /*backgound: rgb(22,22,22)
+    background: gray
+    estas são 3 formas de estelizar a cor mas a forma mais correcta ou mais usada é a primeira #dfdfdf*/    
+}
+
+.foto-andre {
+    border: 2px solid white;
+    border-radius: 50%;
+
+    /*border pode ser usado da forma que esta em exemplo mas tambem podemos fazer em separado
+    border-width: 2px
+    border-style: solid
+    border-color: black
+    no caso de border-radius da para aredondar os cantos das imagens inserindo os 4 valores
+    ex border-radius: 50% topo lado direito 10% topo lado esquerdo 30% baixo direito 60% baixo esquerdo
+    alterando o formato de cada canto deformamos a imagem ao nosso gosto
+    tambem podemos inserir um unico valor caso seja desejado dessa forma */
+
+    margin: 30px 0px 40px 0px;
+    /*esta propriadade de distancia de margem exemplefica um
+    shorthand temos tambem separado
+    margin-top:
+    margin-right:
+    margin-bottom:
+    margin-left:
+    desta forma controlamos um unico lado se assim desejar*/
+}
+
+h2 {
+    padding: 2px
+}

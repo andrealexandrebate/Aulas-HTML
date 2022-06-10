@@ -1,0 +1,16 @@
+body{
+    background-image: url(imag.jpg);
+    background-repeat: no-repeat;
+    /*background-position: 100% 10%;*/
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed ;
+}
+
+h1 { border-style: dashed;
+    
+}
+
+.foto-andre {
+    border: 5px solid black;
+}
